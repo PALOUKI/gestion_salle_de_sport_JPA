@@ -7,20 +7,21 @@
 
 **`Expected Features:`**
 
-##Client Section
+**`Client Section`**
 The client must be able to:
 
 1. Submit a request to create an account,
 2. Subscribe to a plan,
 3. View the list of their subscriptions along with their status (expired / active), ensuring that there is never more than one active subscription at a time.
 
-##Administrator Section
+**`Administrator Section`**
 The administrator must be able to:
-4\. Manage reference data (subscription types, payment types, ticket types, etc.),
-5\. Process account creation requests,
-6\. Manage sessions,
-7\. View the session history of a specific client,
-8\. Access the list of subscriptions with their status (expired / active).
+
+4. Manage reference data (subscription types, payment types, ticket types, etc.),
+5. Process account creation requests,
+6. Manage sessions,
+7. View the session history of a specific client,
+8. Access the list of subscriptions with their status (expired / active).
 
 
 <summary><h2>📷 Screenshots</h2></summary>
